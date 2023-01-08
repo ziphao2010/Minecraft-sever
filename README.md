@@ -1,7 +1,7 @@
 # 我的世界服务器
 来自梦想的服务器的
 
-IP:dx.mcgame.pub:23013
+IP:dx.mcgame.pub:19187
 
 服务器已稳定运行2年
 
